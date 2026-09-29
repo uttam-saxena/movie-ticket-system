@@ -12,7 +12,7 @@ A simple console-based Python application for managing movie ticket bookings and
 1. Ensure Python is installed on your system.
 2. Run the script using a terminal or command prompt:
    ```bash
-   python cinema_system.py
+   python main.py
 
 ## Author
 Uttam Saxena
